@@ -1,7 +1,7 @@
 criaCartão(
     'História',
     'Quando ocoreu a Segunda Guerra Mundial?',
-    '1914-1918').
+    '1914-1918')
     criaCartão(
     'Química',
     'Um carbono tretavalente faz quantas ligações e tem quantos elétrons na camada de valência?',
