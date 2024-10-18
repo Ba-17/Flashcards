@@ -77,5 +77,5 @@ footer{
     font-weight: bold;
     color: var(--destaque);
     border: 2px solid var(--destaque);
-    
+    background-color: var(--cartao-verso);
 }
