@@ -1,7 +1,7 @@
 :root{
     --fundo:#D8BFD8;
     --cartao-frente:#FFA07A;
-    --cartao-verso:	#D8BFD8;
+    --cartao-verso:	#a16ca1;
     --destaque:	#eb4aeb;
     --preto:#000000;
     --branco:#ffffff;
@@ -77,5 +77,5 @@ footer{
     font-weight: bold;
     color: var(--destaque);
     border: 2px solid var(--destaque);
-    background-color: var(--cartao-verso);
+    background-color: var(--cartao-verso)
 }
