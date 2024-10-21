@@ -39,3 +39,14 @@ header a{
     gap: 2rem;
     margin: 3rem;
 }
+
+.conteudo-cartao{
+    background-color: var(--cartao-frente);
+    padding: 40px;
+    border: 1px solid var(--destaque);
+
+}
+
+.conteudo-cartao:hover{
+    transform: scale(1.02);
+}
