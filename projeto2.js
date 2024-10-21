@@ -16,3 +16,4 @@ function criaCartão(categoria, pergunta, resposta){
 
     container.appendChild(cartao);
     }
+    
