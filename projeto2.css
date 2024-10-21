@@ -56,4 +56,5 @@ header a{
     background-color: var(--cartao-verso);
     padding: 2rem;
     text-align: center;
+    margin-top: 1rem;
 }
