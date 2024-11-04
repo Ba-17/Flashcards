@@ -24,7 +24,7 @@ function criaCartão(categoria, pergunta, resposta){
         resposta.style.display = 'block';
         
         }
-        else(){
+        else{
         resposta.style.display = 'none';
         }
     }
